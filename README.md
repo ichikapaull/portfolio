@@ -23,8 +23,8 @@ A visually stunning, cinematic portfolio website for showcasing developer work w
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/cinematic-portfolio.git
-   cd cinematic-portfolio
+   git clone https://github.com/ichikapaull/portfolio.git
+   cd portfolio
    ```
 
 2. Install dependencies
